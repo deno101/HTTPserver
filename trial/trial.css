@@ -1,0 +1,49 @@
+html{
+  background: #100a1c;
+  background-image: radial-gradient(50% 30% ellipse at center top, #201e40 0%, rgba(0, 0, 0, 0)100%), radial-gradient(60% 50% ellipse at center bottom, #261226 0%, #100a1c 100%);
+  background-attachment: fixed;
+  color: #6cacc5;
+}
+body{
+  color: #6cacc5;
+  font: 300 18px/1.6 "source sans pro", sans-serif;
+  text-align: center;
+}
+
+h1{
+	color: yellow;
+	font-family: algerian;
+	font-style: bold;
+	border-bottom: 2000px;
+}
+body{
+	text-align: center;
+}
+button{
+	margin-top: 23px;
+	border: 0;
+	background: rgba(42, 50, 113, 0.28);
+	color: #6cacc5;
+	cursor: pointer;
+	font: inherit;
+	margin: 0.25cm;
+	width: 2cm;
+	height: 2cm;
+	font-size: 38px;
+	font-family: algerian;
+}
+#textt{
+	height: 2cm;
+	width: 7.7cm;
+	border: 0;
+	background-color: silver;
+	font-size: 52px;
+	text-align: right;
+	background: #100a1c;
+	color: white;
+	font-family: algerian;
+}
+button :hover{
+	outline: none;
+
+}
