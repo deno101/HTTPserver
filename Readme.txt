@@ -15,3 +15,5 @@ N.B the main class is at org.denniz.server.MainServer.class
 Created by Dnz Dennizwarui@gmail.com
 
 For demo purposes i have included a javascript calculator ; just run the server and type the link http://localhost/trial.html
+
+feel free to hit me up at dennizwarui@gmail.com
